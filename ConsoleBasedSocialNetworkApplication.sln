@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBasedSocialNetworkApplication", "ConsoleBasedSocialNetworkApplication\ConsoleBasedSocialNetworkApplication.csproj", "{8493F85A-B76A-4145-8F85-775BCC0BE285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleBasedSocialNetworkApplicationTests", "ConsoleBasedSocialNetworkApplicationTests\ConsoleBasedSocialNetworkApplicationTests.csproj", "{132B240A-5F4D-4AA8-BE81-A05338FCDC2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8493F85A-B76A-4145-8F85-775BCC0BE285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8493F85A-B76A-4145-8F85-775BCC0BE285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8493F85A-B76A-4145-8F85-775BCC0BE285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8493F85A-B76A-4145-8F85-775BCC0BE285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132B240A-5F4D-4AA8-BE81-A05338FCDC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132B240A-5F4D-4AA8-BE81-A05338FCDC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132B240A-5F4D-4AA8-BE81-A05338FCDC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132B240A-5F4D-4AA8-BE81-A05338FCDC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
